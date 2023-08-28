@@ -28,6 +28,8 @@ The following diagram highlights how the Shared Responsibility Model informs who
 
 ![image](https://github.com/Prureddy/Azure_learning/assets/99805816/c3c68587-d728-469f-a6aa-f7ad75b990b1)
 
+[click here](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/4-describe-shared-responsibility-model)
+
 
 Diagram showing the responsibilities of the shared responsibility model.
 
